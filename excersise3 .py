@@ -1,1 +1,2 @@
-def capitalized_items()
+def capitalized_items():
+    sh
